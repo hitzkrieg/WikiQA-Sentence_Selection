@@ -1,0 +1,12 @@
+how are glacier caves formed ?	A partly submerged glacier cave on Perito Moreno Glacier .	0
+how are glacier caves formed ?	The ice facade is approximately 60 m high	0
+how are glacier caves formed ?	Ice formations in the Titlis glacier cave	0
+how are glacier caves formed ?	A glacier cave is a cave formed within the ice of a glacier .	1
+how are glacier caves formed ?	Glacier caves are often called ice caves , but this term is properly used to describe bedrock caves that contain year-round ice .	0
+How are the directions of the velocity and force vectors related in a circular motion	In physics , circular motion is a movement of an object along the circumference of a circle or rotation along a circular path .	0
+How are the directions of the velocity and force vectors related in a circular motion	It can be uniform , with constant angular rate of rotation ( and constant speed ) , or non-uniform with a changing rate of rotation .	0
+How are the directions of the velocity and force vectors related in a circular motion	The rotation around a fixed axis of a three-dimensional body involves circular motion of its parts .	0
+How are the directions of the velocity and force vectors related in a circular motion	The equations of motion describe the movement of the center of mass of a body .	0
+How are the directions of the velocity and force vectors related in a circular motion	Examples of circular motion include : an artificial satellite orbiting the Earth at constant height , a stone which is tied to a rope and is being swung in circles , a car turning through a curve in a race track , an electron moving perpendicular to a uniform magnetic field , and a gear turning inside a mechanism .	0
+How are the directions of the velocity and force vectors related in a circular motion	Since the object 's velocity vector is constantly changing direction , the moving object is undergoing acceleration by a centripetal force in the direction of the center of rotation .	0
+How are the directions of the velocity and force vectors related in a circular motion	Without this acceleration , the object would move in a straight line , according to Newton 's laws of motion .	0
